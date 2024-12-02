@@ -18,7 +18,7 @@ made a eCommerce website using html css and javascript. where you can buy produc
 * mobile friendly
 * sliding banner
 
-#languages used
+# languages used
 * html
 * css
 * javascript
